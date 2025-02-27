@@ -22,12 +22,6 @@ You can explore the interactive Tableau dashboard here:  https://public.tableau.
 4. **Aircraft Performance**  
    - Comparison of ratings based on different aircraft types.
 
-## Recommendations  
-- **Improve In-Flight Entertainment & Catering**
-- **Analyze Geographical Disparities**
-- **Enhance Seat Comfort & Value Perception**
-- **Monitor Aircraft-Specific Ratings**
-
 ## Data Source  
 All data are from different datasets, mainly used for project purposes. The data might not be true.
 
