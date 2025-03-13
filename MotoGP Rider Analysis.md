@@ -34,15 +34,17 @@ The dataset is from kaggle:
 https://www.kaggle.com/datasets/mayuravartak/motogp-riders-2024-performance-dataset/data
 
 ## Features
-✅ **Interactive Filters**: Filter data by season, team, or rider
-✅ **Drill-down Analysis**: Click on a rider/team to explore detailed stats
-✅ **Navigation Buttons**: Jump between different sections of the dashboard
+**Interactive Filters**: Filter data by season, team, or rider
 
-## 📸 Screenshot
+**Drill-down Analysis**: Click on a rider/team to explore detailed stats
+
+**Navigation Buttons**: Jump between different sections of the dashboard
+
+## Screenshot
 ![image](https://github.com/user-attachments/assets/d38df58f-f395-497e-8ad5-bf1b25a4b538)
 
 
-## 🔗 Live Demo
+## Live Demo
 (https://public.tableau.com/views/MotoGP_17418954624700/Dashboard3?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ## License
