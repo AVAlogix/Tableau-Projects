@@ -46,4 +46,4 @@ This dashboard provides crucial insights into traffic accident patterns, helping
 - **Source Link:** https://www.kaggle.com/datasets/oktayrdeki/traffic-accidents?select=traffic_accidents.csv
 - **Tableau Dashboard:** https://public.tableau.com/app/profile/aparna.ammanath/viz/TrafficAccidentAnalysis_17419767563750/Dashboard1
 - **Snapshot Preview:** 
-![Screenshot 2025-03-16 192618](https://github.com/user-attachments/assets/6ca30721-1b17-448f-8bce-fd245ebc4a89)
+![image](https://github.com/user-attachments/assets/66dbf314-a0d2-40e2-a348-880ccb829932)
