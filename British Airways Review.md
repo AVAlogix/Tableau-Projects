@@ -4,10 +4,12 @@
 This repository contains an analysis of British Airways customer reviews using Tableau. The dashboard visualizes various key metrics, including overall rating, cabin staff service, entertainment, food & beverages, seat comfort, value for money, and ground service. The goal of this analysis is to identify trends, strengths, and areas for improvement in British Airways' customer experience.
 
 ## Dashboard Snippet  
-![british airways](https://github.com/user-attachments/assets/0509e0df-3474-4bf5-9f60-06b0452a85f3)
+![image](https://github.com/user-attachments/assets/9be188aa-a2dc-468f-a50b-71e37a571259)
+
 
 ## Tableau Dashboard  
-You can explore the interactive Tableau dashboard here:  https://public.tableau.com/views/Britishairways_17380667207960/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+You can explore the interactive Tableau dashboard here:  <br>
+https://public.tableau.com/views/Britishairwaysreview1/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
 ## Key Insights  
 1. **Overall Ratings & Key Metrics**  
