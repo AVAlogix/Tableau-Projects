@@ -41,7 +41,8 @@ https://www.kaggle.com/datasets/mayuravartak/motogp-riders-2024-performance-data
 **Navigation Buttons**: Jump between different sections of the dashboard
 
 ## Screenshot
-![image](https://github.com/user-attachments/assets/d38df58f-f395-497e-8ad5-bf1b25a4b538)
+![image](https://github.com/user-attachments/assets/bc33b52e-7aad-477c-a7d0-14c48c011ee1)
+
 
 
 ## Live Demo
